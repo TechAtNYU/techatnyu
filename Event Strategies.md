@@ -1,4 +1,4 @@
-# Event strategies
+# Event strategies for proffessional development (skill building)
 This document is an overview of the different goals our programs could acheive. Whenever we plan a new event, we should ask which of these goals is it aiming to fulfill, and whether it could fulfill more.
 
 ## Build capacity from scratch, a la General Assembly.
